@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>default_channel</name>
+   <tag></tag>
+   <elementGuidId>07b8f18f-a586-444a-9464-3e9eff03aed9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiButtonBase-root.MuiListItemButton-root.MuiListItemButton-gutters.Mui-selected.MuiListItemButton-root.MuiListItemButton-gutters.Mui-selected.css-e4jeze</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='root']/div/div/div[2]/div/div/div/div[2]/nav/div)[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Cuộc trò chuyện chung&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8b9494dd-a969-44e3-b907-cd31806f4516</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiListItemButton-root MuiListItemButton-gutters Mui-selected MuiListItemButton-root MuiListItemButton-gutters Mui-selected css-e4jeze</value>
+      <webElementGuid>285b4aac-e699-4150-a73d-bf8cc2175d4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>51eb9eb8-50e7-4e0f-aa10-7dbde81352b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bb3cd9da-9548-4750-91ed-83dcc1a3c9d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Cuộc trò chuyện chung</value>
+      <webElementGuid>07d8f2be-21b6-48ec-a82b-99a8f8d6e104</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>usergroupCuộc trò chuyện chung</value>
+      <webElementGuid>62592823-cd0f-4d63-8528-b822ff3585c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-full w-full h-svh max-h-svh flex flex-row flex-grow overflow-hidden MuiBox-root css-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap css-a2e4ud&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true h-full css-sui8tn&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap css-1g8xl97&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-auto min-w-80 max-w-80 !h-full bg-white border-r-2 css-1f3rkw9&quot;]/div[@class=&quot;h-full !overflow-y-scroll&quot;]/div[@class=&quot;flex flex-col mt-1&quot;]/nav[@class=&quot;MuiList-root MuiList-padding css-179ktv7&quot;]/div[@class=&quot;MuiButtonBase-root MuiListItemButton-root MuiListItemButton-gutters Mui-selected MuiListItemButton-root MuiListItemButton-gutters Mui-selected css-e4jeze&quot;]</value>
+      <webElementGuid>ce4cc3e4-843b-4d85-80ae-a1e4ca15010e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div/div[2]/nav/div</value>
+      <webElementGuid>efcfaac0-5d14-4b72-9341-1f98ef8d1318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='H2N'])[1]/following::div[2]</value>
+      <webElementGuid>f9ebe92e-e57a-47a8-b798-149f24deb06c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kênh'])[1]/preceding::div[4]</value>
+      <webElementGuid>f0800a51-0856-4c67-8762-555ca2eb8c39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div</value>
+      <webElementGuid>48548044-ff2b-4162-a345-2d0dbce72593</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'usergroupCuộc trò chuyện chung' or . = 'usergroupCuộc trò chuyện chung')]</value>
+      <webElementGuid>1b705c16-5584-4b96-90cc-31a033285d09</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>validate_role</name>
+   <tag></tag>
+   <elementGuidId>a9b37dc3-ab59-4a86-9eab-866b5ec26db3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/div/div[3]/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Vui lòng chọn ít nhất 1 giá trị&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>59c81bcd-0d10-4a03-b2f4-96a3cafe8f97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiFormHelperText-root Mui-error MuiFormHelperText-sizeSmall MuiFormHelperText-contained css-f8sbie-MuiFormHelperText-root</value>
+      <webElementGuid>ded9632d-f3be-4e68-a18b-77890026acb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>:rv:-helper-text</value>
+      <webElementGuid>3ad93512-d312-4b9e-80f1-e7631fc6ae5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vui lòng chọn ít nhất 1 giá trị</value>
+      <webElementGuid>7078d8aa-5d13-4dfc-a1c8-50dcfa12b6ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:rv:-helper-text&quot;)</value>
+      <webElementGuid>0d975bf3-0fa0-47bb-9cb8-bb22ce28a176</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id=':rv:-helper-text']</value>
+      <webElementGuid>49e82672-e45a-407b-af6a-104488f05b2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[8]/following::p[1]</value>
+      <webElementGuid>c1515cf2-35eb-42d4-8d32-3698349d73d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(*)'])[3]/following::p[1]</value>
+      <webElementGuid>cb2c4553-b6c0-492c-90c2-272f2a61dbdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Vui lòng chọn ít nhất 1 giá trị']/parent::*</value>
+      <webElementGuid>5481d16e-ec89-44dc-86d9-034f4190e9c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[3]/div/div/p</value>
+      <webElementGuid>493ede8a-29ba-4265-8d73-6426eb501a38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = ':rv:-helper-text' and (text() = 'Vui lòng chọn ít nhất 1 giá trị' or . = 'Vui lòng chọn ít nhất 1 giá trị')]</value>
+      <webElementGuid>84bea683-40bc-401a-b1c9-4d80d8bdb100</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>message_text</name>
+   <tag></tag>
+   <elementGuidId>de7b8e3a-4121-4a5f-ade6-c87a47d503b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollableDiv']/div/div/div/div/li/div/div[2]/div/div/span/div/p/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;hdhdhd&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a5ba2e22-e5e4-4c5d-8638-becc6db98020</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>hdhdhd</value>
+      <webElementGuid>a2d18030-9672-45ff-92d7-56e881b9e657</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-full w-full h-svh max-h-svh flex flex-row flex-grow overflow-hidden MuiBox-root css-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap css-a2e4ud&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true h-full css-sui8tn&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap css-1g8xl97&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true !h-full !max-w-full !min-h-full css-sui8tn&quot;]/div[@class=&quot;bg-slate-200 h-full flex flex-col justify-between&quot;]/div[@id=&quot;scrollableDiv&quot;]/div[@class=&quot;infinite-scroll-component__outerdiv&quot;]/div[@class=&quot;infinite-scroll-component pb-4 pt-4 gap-y-4&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;message-item-container flex space-x-2 items-start px-2 justify-end MuiBox-root css-0&quot;]/li[@class=&quot;MuiListItem-root MuiListItem-padding max-w-[70%] !justify-end css-13sbe1j&quot;]/div[@class=&quot;MuiStack-root css-qfdd9t&quot;]/div[@class=&quot;MuiStack-root justify-start css-l256j9&quot;]/div[@class=&quot;message-item-content h-full space-y-1&quot;]/div[@class=&quot;MuiListItemText-root css-xdiy5h&quot;]/span[@class=&quot;MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-wbk34u&quot;]/div[@class=&quot;text-lg text-nowrap&quot;]/p[1]/span[1]</value>
+      <webElementGuid>f0a1bc3c-85b3-4fd3-adab-ca18351a858b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollableDiv']/div/div/div/div/li/div/div[2]/div/div/span/div/p/span</value>
+      <webElementGuid>be4a49fa-6027-4421-b17f-a9502166e8ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nguyễn Khang Hy Outlook'])[1]/following::span[5]</value>
+      <webElementGuid>799baca1-c9da-4890-9357-d69f7adb3902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nguyễn Khang Hy iCloud'])[1]/following::span[6]</value>
+      <webElementGuid>9128b420-0823-40a7-b269-f3954ed7e53b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Operations Analyst'])[1]/preceding::span[10]</value>
+      <webElementGuid>437e7034-a602-4c6e-8e08-3854be584f07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mở lịch'])[1]/preceding::span[11]</value>
+      <webElementGuid>4aeb290a-32d5-43e3-bfd4-61e4069bb7b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='hdhdhd']/parent::*</value>
+      <webElementGuid>177bd89c-2d9a-466c-97ce-b62fc2e72038</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/span</value>
+      <webElementGuid>a74c99e3-1d01-4738-9b76-006f588de053</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'hdhdhd' or . = 'hdhdhd')]</value>
+      <webElementGuid>fad8b0a9-5535-4adb-adf8-edb16e23e2c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

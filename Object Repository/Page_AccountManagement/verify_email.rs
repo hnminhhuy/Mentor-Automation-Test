@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verify_email</name>
+   <tag></tag>
+   <elementGuidId>bfcf50e4-e004-4a37-97bd-c3fc3359c2a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.MuiTypography-root.MuiTypography-button.css-718wle-MuiTypography-root</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div/div[2]/div/div/div/div[2]/div/div[2]/table/tbody/tr[1]/td[3]/div/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;hhuy260624@gmail.com&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>72177f0c-d0ea-4025-80c1-fa83d7150628</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-button css-718wle-MuiTypography-root</value>
+      <webElementGuid>1044837a-0252-46bb-943a-4ea43df1696c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>hhuy260624@gmail.com </value>
+      <webElementGuid>e1d1bb7f-20e4-4bd0-890b-5258dc72d8f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-fgti7a&quot;]/div[@class=&quot;MuiBox-root css-y8t3k5&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-e2ivvl-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-5y6y53-MuiGrid-root&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1h15ts-MuiPaper-root-MuiCard-root&quot;]/div[@class=&quot;MuiBox-root css-afbxdw&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-5y6y53-MuiGrid-root&quot;]/div[@class=&quot;MuiTableContainer-root css-14a9zel-MuiTableContainer-root&quot;]/table[@class=&quot;MuiTable-root css-1r4at57-MuiTable-root&quot;]/tbody[@class=&quot;MuiTableBody-root css-apqrd9-MuiTableBody-root&quot;]/tr[@class=&quot;MuiTableRow-root css-n3cyd2-MuiTableRow-root&quot;]/td[@class=&quot;MuiBox-root css-1a2svrq&quot;]/div[@class=&quot;MuiBox-root css-1tqqhim&quot;]/a[1]/span[@class=&quot;MuiTypography-root MuiTypography-button css-718wle-MuiTypography-root&quot;]</value>
+      <webElementGuid>08811389-52b9-4102-8f97-71d26b4a8d48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div[2]/div/div/div/div[2]/div/div[2]/table/tbody/tr/td[3]/div/a/span</value>
+      <webElementGuid>24b54fff-d66b-4e1d-b21a-30d51e9e4072</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[1]/preceding::span[1]</value>
+      <webElementGuid>e3c28fb2-e3a1-457b-b573-daec57faf7e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản trị viên cấp cao'])[1]/preceding::span[1]</value>
+      <webElementGuid>2dbe5d03-2a94-498f-b1ad-d084e460a88d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='hhuy260624@gmail.com']/parent::*</value>
+      <webElementGuid>006b0b0c-89d2-4efb-a65e-2dcba85768c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a/span</value>
+      <webElementGuid>d19659e1-1da8-4783-a550-21c89e11e9cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'hhuy260624@gmail.com ' or . = 'hhuy260624@gmail.com ')]</value>
+      <webElementGuid>450704f4-eaae-4af0-9548-1cadb7cb207e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

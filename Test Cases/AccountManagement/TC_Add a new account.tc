@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Add a new account</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>27e09912-e053-4bf6-bd28-2e37ec6426f6</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>7611b8e5-308d-47f5-86d5-53cfa219e619</id>
+      <iterationEntity>
+         <iterationType>RANGE</iterationType>
+         <value>2-3</value>
+      </iterationEntity>
+      <testDataId>Data Files/TD_AddAccount</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>7611b8e5-308d-47f5-86d5-53cfa219e619</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>fullname</value>
+      <variableId>12f00c49-fc26-46f5-9f80-af27e35c35aa</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>7611b8e5-308d-47f5-86d5-53cfa219e619</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>email</value>
+      <variableId>fddb47d6-e0be-4192-a773-38e531551c3b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>7611b8e5-308d-47f5-86d5-53cfa219e619</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>role</value>
+      <variableId>89544117-3324-4042-9d7b-32fa040ee97c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>7611b8e5-308d-47f5-86d5-53cfa219e619</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>expected</value>
+      <variableId>741e7458-226f-4974-8cb9-e4ce6136dc74</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>7611b8e5-308d-47f5-86d5-53cfa219e619</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>message_pattern</value>
+      <variableId>3aca11af-b3e8-4770-8dd4-c5771357e702</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'sample fullname'</defaultValue>
+      <description></description>
+      <id>12f00c49-fc26-46f5-9f80-af27e35c35aa</id>
+      <masked>false</masked>
+      <name>fullname</name>
+   </variable>
+   <variable>
+      <defaultValue>'s@mail.com'</defaultValue>
+      <description></description>
+      <id>fddb47d6-e0be-4192-a773-38e531551c3b</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'user'</defaultValue>
+      <description></description>
+      <id>89544117-3324-4042-9d7b-32fa040ee97c</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
+   <variable>
+      <defaultValue>'failed'</defaultValue>
+      <description></description>
+      <id>741e7458-226f-4974-8cb9-e4ce6136dc74</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+   <variable>
+      <defaultValue>'đã tồn tại'</defaultValue>
+      <description></description>
+      <id>3aca11af-b3e8-4770-8dd4-c5771357e702</id>
+      <masked>false</masked>
+      <name>message_pattern</name>
+   </variable>
+</TestCaseEntity>

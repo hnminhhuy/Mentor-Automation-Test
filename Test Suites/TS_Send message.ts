@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_Send message</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>c5012efc-861d-4db5-8498-065ade8ee048</testSuiteGuid>
+   <testCaseLink>
+      <guid>9d75a615-c931-419b-b110-05d525d74f37</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CommonTestCases/TC-Login as User</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a7949400-094c-4286-93d8-0f3b402f401e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Send message</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>95281629-c1a9-4da6-96d1-96936b9d886c</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TD_Message</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>95281629-c1a9-4da6-96d1-96936b9d886c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>messageType</value>
+         <variableId>8e93b7d0-39cd-4264-a75b-908abe8dbfd3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>95281629-c1a9-4da6-96d1-96936b9d886c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>messageContent</value>
+         <variableId>de6f8abd-474a-48fc-8ccc-acbd33e7d32a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>95281629-c1a9-4da6-96d1-96936b9d886c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>expected</value>
+         <variableId>97e0850f-c5dd-485e-a3e1-261a83f2ea2e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>95281629-c1a9-4da6-96d1-96936b9d886c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>messagePattern</value>
+         <variableId>cf85ebb5-6795-4ad0-8008-afdb6b0ce855</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

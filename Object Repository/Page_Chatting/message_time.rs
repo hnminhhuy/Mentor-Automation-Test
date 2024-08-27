@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>message_time</name>
+   <tag></tag>
+   <elementGuidId>0270d2fb-aa6d-4252-979a-d7e5396d2570</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='scrollableDiv']/div/div/div/div/li/div/div[2]/div/p)[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;23:29 hôm nay&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>7caddc47-07c3-4d5a-b58c-da82c3a6f405</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 !text-base !mb-2 css-l6opbt</value>
+      <webElementGuid>723b01f6-8242-48d5-9caf-268ed32deadd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>23:29 hôm nay</value>
+      <webElementGuid>088eea0d-b982-47e2-93ee-4eb13cc23cc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-full w-full h-svh max-h-svh flex flex-row flex-grow overflow-hidden MuiBox-root css-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap css-a2e4ud&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true h-full css-sui8tn&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap css-1g8xl97&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true !h-full !max-w-full !min-h-full css-sui8tn&quot;]/div[@class=&quot;bg-slate-200 h-full flex flex-col justify-between&quot;]/div[@id=&quot;scrollableDiv&quot;]/div[@class=&quot;infinite-scroll-component__outerdiv&quot;]/div[@class=&quot;infinite-scroll-component pb-4 pt-4 gap-y-4&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;message-item-container flex space-x-2 items-start px-2 justify-end MuiBox-root css-0&quot;]/li[@class=&quot;MuiListItem-root MuiListItem-padding max-w-[70%] !justify-end css-13sbe1j&quot;]/div[@class=&quot;MuiStack-root css-qfdd9t&quot;]/div[@class=&quot;MuiStack-root justify-start css-l256j9&quot;]/div[@class=&quot;message-item-content h-full space-y-1&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 !text-base !mb-2 css-l6opbt&quot;]</value>
+      <webElementGuid>077b5a20-604d-40a0-b605-25363eb038aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollableDiv']/div/div/div/div/li/div/div[2]/div/p</value>
+      <webElementGuid>bb938379-c2e4-4165-b9fe-3e37fc550d64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hdhdhd'])[1]/following::p[1]</value>
+      <webElementGuid>1365a352-6873-41ab-b1fc-714c74e639ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nguyễn Khang Hy Outlook'])[1]/following::p[3]</value>
+      <webElementGuid>f43f2439-08e5-4063-b1af-f28f6fe790ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Operations Analyst'])[1]/preceding::p[5]</value>
+      <webElementGuid>84896f8e-8c8a-4342-a58f-95b8800815c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mở lịch'])[1]/preceding::p[7]</value>
+      <webElementGuid>065a77bd-5f4f-4220-91a0-ae05896c8ece</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='23:29 hôm nay']/parent::*</value>
+      <webElementGuid>31f5dbb8-4bad-4efe-97e7-043e262e59a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/p</value>
+      <webElementGuid>92c0439b-ceae-47cc-9f07-a4b8cb1644db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '23:29 hôm nay' or . = '23:29 hôm nay')]</value>
+      <webElementGuid>afb54ed8-a774-44f2-9b81-b9684b09f635</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

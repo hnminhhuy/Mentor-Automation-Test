@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_Add a new account</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>1af2bb68-fba1-47d9-83a6-51c46cb163db</testSuiteGuid>
+   <testCaseLink>
+      <guid>e76313e5-fc34-440e-8e7b-861495d07d4e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CommonTestCases/TC-Login as Admin</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f58bcab9-7ff0-4a60-86cb-c3ef462cb554</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CommonTestCases/TC_Navigate to Account management</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5cf290c1-4e52-4230-a957-4e63320c457f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AccountManagement/TC_Add a new account</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>fa15010d-ab5e-4723-a6a2-8ca35b082ce0</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TD_AddAccount</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>fa15010d-ab5e-4723-a6a2-8ca35b082ce0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>fullname</value>
+         <variableId>12f00c49-fc26-46f5-9f80-af27e35c35aa</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fa15010d-ab5e-4723-a6a2-8ca35b082ce0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>fddb47d6-e0be-4192-a773-38e531551c3b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fa15010d-ab5e-4723-a6a2-8ca35b082ce0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>role</value>
+         <variableId>89544117-3324-4042-9d7b-32fa040ee97c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fa15010d-ab5e-4723-a6a2-8ca35b082ce0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>expected</value>
+         <variableId>741e7458-226f-4974-8cb9-e4ce6136dc74</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fa15010d-ab5e-4723-a6a2-8ca35b082ce0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>message_pattern</value>
+         <variableId>3aca11af-b3e8-4770-8dd4-c5771357e702</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Title</name>
+   <tag></tag>
+   <elementGuidId>89d2e18a-a8a5-4044-914d-d0a4b4c56e89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h6.MuiTypography-root.MuiTypography-h6.MuiTypography-noWrap.css-hmr8w-MuiTypography-root</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/header/div/div/div/h6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Quản lý tài khoản&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>7968f869-2fc6-488a-98da-c907c594e49f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-h6 MuiTypography-noWrap css-hmr8w-MuiTypography-root</value>
+      <webElementGuid>4e431d42-deeb-42a8-afe7-cc4d03001b69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Quản lý tài khoản</value>
+      <webElementGuid>f73f2946-784a-45a3-b761-e3188390e772</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-fgti7a&quot;]/header[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorInherit MuiAppBar-positionStatic css-2zw9n6-MuiPaper-root-MuiAppBar-root&quot;]/div[@class=&quot;MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-6g765d-MuiToolbar-root&quot;]/div[@class=&quot;MuiBox-root css-1n8f1nf&quot;]/div[@class=&quot;MuiBox-root css-1fdwtd7&quot;]/h6[@class=&quot;MuiTypography-root MuiTypography-h6 MuiTypography-noWrap css-hmr8w-MuiTypography-root&quot;]</value>
+      <webElementGuid>b9fc71ce-4c80-4c10-a3f2-e9da6970a743</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/header/div/div/div/h6</value>
+      <webElementGuid>2df66722-5e9f-4357-b8ea-13545218da45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản lý tài khoản'])[2]/following::h6[1]</value>
+      <webElementGuid>6e2b264f-6132-4008-96a9-6d2f978ab599</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nhật ký hệ thống'])[1]/following::h6[1]</value>
+      <webElementGuid>52aee327-6ebd-4730-93a9-69cf6e1ece69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tìm kiếm'])[1]/preceding::h6[1]</value>
+      <webElementGuid>64991cb1-cbfa-4336-b385-315ea44659c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/preceding::h6[1]</value>
+      <webElementGuid>ebbfbdc9-615f-496b-b4ff-cd4fb5dcac52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div/div/div/h6</value>
+      <webElementGuid>bf9c6b88-13e0-4240-9ce8-e0c22ff625cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h6[(text() = 'Quản lý tài khoản' or . = 'Quản lý tài khoản')]</value>
+      <webElementGuid>146fc91f-86f4-4479-86b3-cb826d1c7c7c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

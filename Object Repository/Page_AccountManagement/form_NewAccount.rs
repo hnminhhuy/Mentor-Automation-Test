@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>form_NewAccount</name>
+   <tag></tag>
+   <elementGuidId>00ec2128-15f0-426f-9cda-876d1c37af13</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.group-modal__container.MuiBox-root.css-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Thêm tài khoản mớiHọ tên (*)Email (*)Vai trò (*)checkXác nhậncloseHủy&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5d7dcad7-3651-4bd4-a6f1-8e612075189b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>group-modal__container MuiBox-root css-0</value>
+      <webElementGuid>c884bc76-9975-49ec-922b-c2e99b18f96e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>710cd184-57db-40f3-a37b-17b90b0b11d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thêm tài khoản mớiHọ tên (*)​Email (*)​Vai trò (*)​checkXác nhậncloseHủy</value>
+      <webElementGuid>f4780fd1-a32f-4d2f-9941-434fe1b4ebba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiModal-root css-79ws1d-MuiModal-root&quot;]/div[@class=&quot;group-modal__container MuiBox-root css-0&quot;]</value>
+      <webElementGuid>35ab31eb-0071-4c1e-9de6-179c247c32b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::div[4]</value>
+      <webElementGuid>cafe0664-d946-46f0-892d-b9ace178ffcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]</value>
+      <webElementGuid>19463495-a53a-404a-8410-a7fbad0be358</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Thêm tài khoản mớiHọ tên (*)​Email (*)​Vai trò (*)​checkXác nhậncloseHủy' or . = 'Thêm tài khoản mớiHọ tên (*)​Email (*)​Vai trò (*)​checkXác nhậncloseHủy')]</value>
+      <webElementGuid>d5db7017-24a1-4a10-8174-9a869727bf53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
