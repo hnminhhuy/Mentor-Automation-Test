@@ -23,6 +23,8 @@ import com.kms.katalon.core.annotation.SetUp
 import com.kms.katalon.core.annotation.SetupTestCase
 import com.kms.katalon.core.annotation.TearDown
 import com.kms.katalon.core.annotation.TearDownTestCase
+import com.kms.katalon.core.configuration.RunConfiguration as RunConfiguration
+
 
 /**
  * Some methods below are samples for using SetUp/TearDown in a test suite.
@@ -33,8 +35,9 @@ import com.kms.katalon.core.annotation.TearDownTestCase
  */
 @SetUp(skipped = false) // Please change skipped to be false to activate this method.
 def setUp() {
-	println "Restoring database before test suite execution..."
-	Runtime.getRuntime().exec("powershell.exe -ExecutionPolicy Bypass -File D:\\uni\\MentorUS\\db_restore.ps1")
+	println "Restoring database before test suite execution..."	
+	String path = RunConfiguration.getProjectDir() + '/' + 'db_restore.ps1'
+	Runtime.getRuntime().exec('powershell.exe -ExecutionPolicy Bypass -File "' + path + '"')
 }
 
 /**
